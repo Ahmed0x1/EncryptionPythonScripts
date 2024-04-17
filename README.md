@@ -7,7 +7,9 @@ I'm programmer too so I have great knowledge about:
 5-SQL Server, MySQL
 6-HTML, CSS
 __________________________________________________________________________________
+You can find scripts for crypto using Known types in encryption types with python.
 
+__________________________________________________________________________________
 Please Harry up to show what I doing every day in my LinkedIn 
 You can search at there by this name: Ahmed Fares 🇵🇸
 
