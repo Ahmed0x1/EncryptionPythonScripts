@@ -20,7 +20,8 @@ InnC = [['A', 'B', 'C', 'D', 'E'],# 0 -> 5
 EndPoint = "Z"                
 PointE = OutC[0][0]
 SavSecuPoint = [PointE]
-#		ENCRYPTION
+
+# ALGORITHMS FOR ENCRYPTION & DECRYPTION FUNCTIONS 
 def indexSearchSecKey(K , arr):
 	if isinstance(K , str):
 		for i in range(len(arr)):
@@ -79,6 +80,7 @@ def StanderdArray(Arr):
 	res.append('Z')
 	return res
 
+# ENCRYPTION 
 def SCStr(str1 , K):
 	lest = []
 	for i in range(len(str1)):
