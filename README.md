@@ -17,5 +17,7 @@ Thanks for reading!!
 
 
 __________________________________________________________________________________
-From : Ahmed Fares Ali `\n`
+
+From : Ahmed Fares Ali
+
 Major : Network / Web Applications Penetration Testing | Bug Hunter | Bug Bounty | Crypto.
