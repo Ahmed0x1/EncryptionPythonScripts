@@ -1,4 +1,4 @@
-![The Cipher Wheel](https://images.app.goo.gl/mtWnYKX6CHYBfFS8A)
+<img src="https://images.app.goo.gl/mtWnYKX6CHYBfFS8A" alt="The Cipher Wheel" style="border: 1px solid \#000;">
 
 This program work on The Cipher Wheel encryption & decryption, you can use it to Encrypt your messages with your friends and decryption messages by this program too 
 
