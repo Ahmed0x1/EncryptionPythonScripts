@@ -5,10 +5,11 @@ Hi I'm Ahmed Fares my major is Web applications <br> penetration tester And netw
 I'm programmer too so I have great knowledge about: <br>
 1-C++ <br>
 2-Python <br>
-3-Js <br>
+3-Javascript <br>
 4-Php <br>
-5-SQL Server, MySQL <br>
-6-HTML, CSS <br>
+5-Laravel <br>
+6-SQL Server, MySQL <br>
+7-HTML, CSS <br>
 __________________________________________________________
 You can find scripts for crypto using Known types in encryption types with python.
 
