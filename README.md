@@ -1,4 +1,4 @@
-![image](TheCipherWheel.jpg) 
+![image](TheCipherWheel.jpeg) 
 
 This program work on The Cipher Wheel encryption & decryption, you can use it to Encrypt your messages with your friends and decryption messages by this program too 
 
