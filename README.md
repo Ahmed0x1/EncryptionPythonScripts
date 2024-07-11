@@ -1,4 +1,4 @@
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fsg-en%2Flisting%2F804899912%2Fcipher-wheel-cypher-wheel-dwarven&psig=AOvVaw1zSvfrHterCOPUHM5kZneV&ust=1720772214719000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCC95bGnocDFQAAAAAdAAAAABAF) 
+![image]() 
 
 This program work on The Cipher Wheel encryption & decryption, you can use it to Encrypt your messages with your friends and decryption messages by this program too 
 
