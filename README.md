@@ -1,4 +1,4 @@
-![The Cipher Wheel](https://github.com/Ahmed0x1/TheCipherWheel/main/0CBEQjRxqFwoTCKDtneqsnocDFQAAAAAdAAAAABAF.jpg?raw=true)
+![The Cipher Wheel](https://github.com/Ahmed0x1/TheCipherWheel/main/0CBEQjRxqFwoTCKDtneqsnocDFQAAAAAdAAAAABAF)
 
 This program work on The Cipher Wheel encryption & decryption, you can use it to Encrypt your messages with your friends and decryption messages by this program too 
 
