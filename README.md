@@ -1,4 +1,4 @@
-![image](https://github.com/Ahmed0x1/EncryptionPythonScripts/images.app.goo.gl/YwvxLSZAMPpBmJyw5)
+![image](https://github.com/Ahmed0x1/EncryptionPythonScripts/YwvxLSZAMPpBmJyw5)
 
 This program work on The Cipher Wheel encryption & decryption, you can use it to Encrypt your messages with your friends and decryption messages by this program too 
 
